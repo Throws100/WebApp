@@ -1,0 +1,45 @@
+.{font-weight: bolt}
+
+vaadin-form-item::part(test) {
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: 0;
+}
+vaadin-form-item ::slotted(.test) {
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: 0;
+}
+vaadin-form-item::part(label) #label {
+  /* Styles for the <div> element with id="label" and part="label" */
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: 0px;
+}
+#label{
+    margin-top: 0px
+}
+
+vaadin-form-item::part(label) .test {
+  /* Styles for labels with the class "test" inside vaadin-form-item */
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: 0;
+}
+vaadin-dialog-overlay::part(overlay) vaadin-vertical-layout vaadin-form-layout vaadin-form-item:nth-child(2) > div:first-child {
+  margin-top: 0;
+}
+vaadin-dialog-overlay::part(overlay) vaadin-vertical-layout vaadin-form-layout vaadin-form-item:nth-child(2)::part(label) ::slotted(.test) {
+  margin-top: 0;
+}
+vaadin-form-item::part(shadow-root) #label {
+  /* Your styles here */
+  margin: 0;
+}
+[part="overlay"] {
+  background-color: var(--lumo-contrast-10pct);
+}
+
+[part="content"] {
+  padding: 0;
+}

@@ -1,0 +1,96 @@
+.data-note-view {
+  display: block;
+  padding: 1em;
+}
+.labelhl{
+    padding-top:20px;
+}
+.vlbhahl{
+    padding-top:0px;
+}
+.vlahbvl{
+    padding-top:70px;
+}
+.anchorbtdaf{
+    background-color: #005ce6;
+      border: none;
+      color: white;
+      padding:7px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      border-radius: 4px;
+}
+.anchorbt{
+      background-color: var(--_lumo-button-primary-background-color, var(--lumo-primary-color));
+      color: white;
+      padding:1px 6px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+
+      font-family: var(--lumo-font-family);
+      font-size: var(--lumo-font-size-m);
+      font-weight: 500;
+      color: white;
+
+
+      margin: 0em;
+      border-radius: var(--lumo-border-radius);
+      border-width: 2px;
+      border-style: outset;
+      border-color: buttonborder;
+      border-image: initial;
+    }
+
+body{
+    color:black;
+}
+vaadin-combo-box{
+    color:black;
+}
+vaadin-text-field{
+    color:black;
+}
+vaadin-number-field{
+    color:black;
+}
+vaadin-password-field{
+    color:black;
+}
+vaadin-label{
+    color:black;
+}
+vaadin-email-field{
+    color:black;
+}
+vaadin-radio-group{
+    color:black;
+}
+vaadin-radio-button{
+    color:black;
+}
+text{
+    color:black;
+}
+vaadin-text{
+    color:black;
+}
+label{
+    color:black;
+}
+vaadin-form-layout{
+    color:black;
+}
+
+td.colorAdmin{
+    background-color:#b3b3ff;
+}
+.my-combobox-label {
+  font-size: 12px;
+}
+
+
+

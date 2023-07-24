@@ -1,0 +1,8 @@
+Delete current folder of webapplication.
+
+Go into intelij and look for Git on the top row
+Go for import Git - Clone
+Select notev01
+
+change SQL password in Properties file
+Open and close Intilij

@@ -1,0 +1,17 @@
+Create Proper EXCEL IMPORT
+  Reads headers of the Excelfile and adds them to grid as a row
+  The columns of the grid are the parameters used by seditech
+  In each cell is a checkbox. If the checkbox is selcted the row and column are a match
+  Each row and column can only have one selected Checkbox
+
+Date Sorting:(Kataster View)
+  Create a filtering Script to filter dates based on "<" and ">" sign.
+  larger than date means all dates between mentioned date and today
+  smaller than date means all datarecords younger than menioned date
+  
+PDF Creation Date
+  Add PDF Creation date to Kataster View
+  And allow only upload from younger files than what is currently stored
+  
+Create Custom Parameter Batchupload (Based on Proper EXCEL IMPORT)
+Create Custom Parameter dedicated view to quickly add/edit/delete information

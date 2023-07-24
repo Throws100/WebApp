@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: commons-codec:commons-codec:1.15">
+    <archive path="C:/Users/Administrator/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" />
+  </library>
+  <library name="Maven: commons-fileupload:commons-fileupload:1.3.3">
+    <archive path="C:/Users/Administrator/.m2/repository/commons-fileupload/commons-fileupload/1.3.3/commons-fileupload-1.3.3.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.6">
+    <archive path="C:/Users/Administrator/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.5.1">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.12.4">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.4/jackson-annotations-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.12.4">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.4/jackson-core-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.12.4">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.4/jackson-databind-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.12.4">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.12.4/jackson-datatype-jdk8-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.12.4">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.4/jackson-datatype-jsr310-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.12.4">
+    <archive path="C:/Users/Administrator/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.12.4/jackson-module-parameter-names-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.github.oshi:oshi-core:5.5.0">
+    <archive path="C:/Users/Administrator/.m2/repository/com/github/oshi/oshi-core/5.5.0/oshi-core-5.5.0.jar" />
+  </library>
+  <library name="Maven: com.github.virtuald:curvesapi:1.06">
+    <archive path="C:/Users/Administrator/.m2/repository/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:1.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.8.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.1.3">
+    <archive path="C:/Users/Administrator/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:25.0-jre">
+    <archive path="C:/Users/Administrator/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar" />
+  </library>
+  <library name="Maven: com.google.gwt:gwt-elemental:2.8.0">
+    <archive path="C:/Users/Administrator/.m2/repository/com/google/gwt/gwt-elemental/2.8.0/gwt-elemental-2.8.0.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:1.1">
+    <archive path="C:/Users/Administrator/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+  </library>
+  <library name="Maven: com.h2database:h2:1.4.200">
+    <archive path="C:/Users/Administrator/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar" />
+  </library>
+  <library name="Maven: com.helger:ph-commons:9.1.2">
+    <archive path="C:/Users/Administrator/.m2/repository/com/helger/ph-commons/9.1.2/ph-commons-9.1.2.jar" />
+  </library>
+  <library name="Maven: com.helger:ph-css:6.1.1">
+    <archive path="C:/Users/Administrator/.m2/repository/com/helger/ph-css/6.1.1/ph-css-6.1.1.jar" />
+  </library>
+  <library name="Maven: com.squareup.okhttp3:okhttp:3.14.9">
+    <archive path="C:/Users/Administrator/.m2/repository/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar" />
+  </library>
+  <library name="Maven: com.squareup.okio:okio:1.14.0">
+    <archive path="C:/Users/Administrator/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar" />
+  </library>
+  <library name="Maven: com.storedobject.vaadin:so-components:0.9.2">
+    <archive path="C:/Users/Administrator/.m2/repository/com/storedobject/vaadin/so-components/0.9.2/so-components-0.9.2.jar" />
+  </library>
+  <library name="Maven: com.sun.activation:jakarta.activation:1.2.2">
+    <archive path="C:/Users/Administrator/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar" />
+  </library>
+  <library name="Maven: com.sun.istack:istack-commons-runtime:3.0.12">
+    <archive path="C:/Users/Administrator/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.12/istack-commons-runtime-3.0.12.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:jakarta.mail:1.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/sun/mail/jakarta.mail/1.6.7/jakarta.mail-1.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin.external.atmosphere:atmosphere-runtime:2.4.30.slf4jvaadin1">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/external/atmosphere/atmosphere-runtime/2.4.30.slf4jvaadin1/atmosphere-runtime-2.4.30.slf4jvaadin1.jar" />
+  </library>
+  <library name="Maven: com.vaadin.external:gentyref:1.2.0.vaadin1">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/external/gentyref/1.2.0.vaadin1/gentyref-1.2.0.vaadin1.jar" />
+  </library>
+  <library name="Maven: com.vaadin.external.gwt:gwt-elemental:2.8.2.vaadin2">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/external/gwt/gwt-elemental/2.8.2.vaadin2/gwt-elemental-2.8.2.vaadin2.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-client:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-client/2.6.7/flow-client-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-data:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-data/2.6.7/flow-data-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-dnd:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-dnd/2.6.7/flow-dnd-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-html-components:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-html-components/2.6.7/flow-html-components-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-html-components-testbench:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-html-components-testbench/2.6.7/flow-html-components-testbench-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-lit-template:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-lit-template/2.6.7/flow-lit-template-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-push:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-push/2.6.7/flow-push-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:flow-server:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/flow-server/2.6.7/flow-server-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:license-checker:1.2.0">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/license-checker/1.2.0/license-checker-1.2.0.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin/14.6.7/vaadin-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-accordion-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-accordion-flow/14.6.7/vaadin-accordion-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-accordion-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-accordion-testbench/14.6.7/vaadin-accordion-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-app-layout-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-app-layout-flow/14.6.7/vaadin-app-layout-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-app-layout-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-app-layout-testbench/14.6.7/vaadin-app-layout-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-avatar-flow:1.0.1">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-avatar-flow/1.0.1/vaadin-avatar-flow-1.0.1.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-avatar-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-avatar-testbench/14.6.7/vaadin-avatar-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-board-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-board-flow/14.6.7/vaadin-board-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-board-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-board-testbench/14.6.7/vaadin-board-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-button-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-button-flow/14.6.7/vaadin-button-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-button-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-button-testbench/14.6.7/vaadin-button-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-charts-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-charts-flow/14.6.7/vaadin-charts-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-charts-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-charts-testbench/14.6.7/vaadin-charts-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-checkbox-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-checkbox-flow/14.6.7/vaadin-checkbox-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-checkbox-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-checkbox-testbench/14.6.7/vaadin-checkbox-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-combo-box-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-combo-box-flow/14.6.7/vaadin-combo-box-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-combo-box-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-combo-box-testbench/14.6.7/vaadin-combo-box-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-confirm-dialog-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-confirm-dialog-flow/14.6.7/vaadin-confirm-dialog-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-confirm-dialog-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-confirm-dialog-testbench/14.6.7/vaadin-confirm-dialog-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-context-menu-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-context-menu-flow/14.6.7/vaadin-context-menu-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-context-menu-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-context-menu-testbench/14.6.7/vaadin-context-menu-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-cookie-consent-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-cookie-consent-flow/14.6.7/vaadin-cookie-consent-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-cookie-consent-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-cookie-consent-testbench/14.6.7/vaadin-cookie-consent-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-core:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-core/14.6.7/vaadin-core-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-crud-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-crud-flow/14.6.7/vaadin-crud-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-crud-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-crud-testbench/14.6.7/vaadin-crud-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-custom-field-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-custom-field-flow/14.6.7/vaadin-custom-field-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-custom-field-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-custom-field-testbench/14.6.7/vaadin-custom-field-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-date-picker-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-date-picker-flow/14.6.7/vaadin-date-picker-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-date-picker-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-date-picker-testbench/14.6.7/vaadin-date-picker-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-date-time-picker-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-date-time-picker-flow/14.6.7/vaadin-date-time-picker-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-date-time-picker-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-date-time-picker-testbench/14.6.7/vaadin-date-time-picker-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-details-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-details-flow/14.6.7/vaadin-details-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-details-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-details-testbench/14.6.7/vaadin-details-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-dialog-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-dialog-flow/14.6.7/vaadin-dialog-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-dialog-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-dialog-testbench/14.6.7/vaadin-dialog-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-form-layout-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-form-layout-flow/14.6.7/vaadin-form-layout-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-form-layout-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-form-layout-testbench/14.6.7/vaadin-form-layout-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-grid-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-grid-flow/14.6.7/vaadin-grid-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-grid-pro-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-grid-pro-flow/14.6.7/vaadin-grid-pro-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-grid-pro-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-grid-pro-testbench/14.6.7/vaadin-grid-pro-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-grid-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-grid-testbench/14.6.7/vaadin-grid-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-icons-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-icons-flow/14.6.7/vaadin-icons-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-icons-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-icons-testbench/14.6.7/vaadin-icons-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-iron-list-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-iron-list-flow/14.6.7/vaadin-iron-list-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-iron-list-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-iron-list-testbench/14.6.7/vaadin-iron-list-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-list-box-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-list-box-flow/14.6.7/vaadin-list-box-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-list-box-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-list-box-testbench/14.6.7/vaadin-list-box-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-login-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-login-flow/14.6.7/vaadin-login-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-login-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-login-testbench/14.6.7/vaadin-login-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-lumo-theme:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-lumo-theme/2.6.7/vaadin-lumo-theme-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-material-theme:2.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-material-theme/2.6.7/vaadin-material-theme-2.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-menu-bar-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-menu-bar-flow/14.6.7/vaadin-menu-bar-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-menu-bar-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-menu-bar-testbench/14.6.7/vaadin-menu-bar-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-notification-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-notification-flow/14.6.7/vaadin-notification-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-notification-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-notification-testbench/14.6.7/vaadin-notification-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-ordered-layout-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-ordered-layout-flow/14.6.7/vaadin-ordered-layout-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-ordered-layout-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-ordered-layout-testbench/14.6.7/vaadin-ordered-layout-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-progress-bar-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-progress-bar-flow/14.6.7/vaadin-progress-bar-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-progress-bar-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-progress-bar-testbench/14.6.7/vaadin-progress-bar-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-radio-button-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-radio-button-flow/14.6.7/vaadin-radio-button-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-radio-button-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-radio-button-testbench/14.6.7/vaadin-radio-button-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-rich-text-editor-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-rich-text-editor-flow/14.6.7/vaadin-rich-text-editor-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-rich-text-editor-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-rich-text-editor-testbench/14.6.7/vaadin-rich-text-editor-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-select-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-select-flow/14.6.7/vaadin-select-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-select-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-select-testbench/14.6.7/vaadin-select-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-split-layout-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-split-layout-flow/14.6.7/vaadin-split-layout-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-split-layout-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-split-layout-testbench/14.6.7/vaadin-split-layout-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-spring:12.4.0">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-spring/12.4.0/vaadin-spring-12.4.0.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-spring-boot-starter:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-spring-boot-starter/14.6.7/vaadin-spring-boot-starter-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-tabs-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-tabs-flow/14.6.7/vaadin-tabs-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-tabs-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-tabs-testbench/14.6.7/vaadin-tabs-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-testbench/14.6.7/vaadin-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-testbench-core:6.4.0">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-testbench-core/6.4.0/vaadin-testbench-core-6.4.0.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-text-field-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-text-field-flow/14.6.7/vaadin-text-field-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-text-field-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-text-field-testbench/14.6.7/vaadin-text-field-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-time-picker-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-time-picker-flow/14.6.7/vaadin-time-picker-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-time-picker-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-time-picker-testbench/14.6.7/vaadin-time-picker-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-upload-flow:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-upload-flow/14.6.7/vaadin-upload-flow-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin:vaadin-upload-testbench:14.6.7">
+    <archive path="C:/Users/Administrator/.m2/repository/com/vaadin/vaadin-upload-testbench/14.6.7/vaadin-upload-testbench-14.6.7.jar" />
+  </library>
+  <library name="Maven: com.zaxxer:HikariCP:4.0.3">
+    <archive path="C:/Users/Administrator/.m2/repository/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar" />
+  </library>
+  <library name="Maven: io.github.bonigarcia:webdrivermanager:3.8.1">
+    <archive path="C:/Users/Administrator/.m2/repository/io/github/bonigarcia/webdrivermanager/3.8.1/webdrivermanager-3.8.1.jar" />
+  </library>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5">
+    <archive path="C:/Users/Administrator/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar" />
+  </library>
+  <library name="Maven: jakarta.persistence:jakarta.persistence-api:2.2.3">
+    <archive path="C:/Users/Administrator/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar" />
+  </library>
+  <library name="Maven: jakarta.transaction:jakarta.transaction-api:1.3.3">
+    <archive path="C:/Users/Administrator/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar" />
+  </library>
+  <library name="Maven: jakarta.validation:jakarta.validation-api:2.0.2">
+    <archive path="C:/Users/Administrator/.m2/repository/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3">
+    <archive path="C:/Users/Administrator/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar" />
+  </library>
+  <library name="Maven: javax.validation:validation-api:2.0.1.Final">
+    <archive path="C:/Users/Administrator/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.13.2">
+    <archive path="C:/Users/Administrator/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.26">
+    <archive path="C:/Users/Administrator/.m2/repository/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.10.22">
+    <archive path="C:/Users/Administrator/.m2/repository/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna:5.7.0">
+    <archive path="C:/Users/Administrator/.m2/repository/net/java/dev/jna/jna/5.7.0/jna-5.7.0.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna-platform:5.7.0">
+    <archive path="C:/Users/Administrator/.m2/repository/net/java/dev/jna/jna-platform/5.7.0/jna-platform-5.7.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-collections4:4.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-compress:1.18">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.12.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-math3:3.6.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.5.13">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.4.14">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-api:2.14.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.14.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.14.1/log4j-to-slf4j-2.14.1.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi:4.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/poi/poi/4.1.0/poi-4.1.0.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml:4.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml-schemas:4.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.50">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.50/tomcat-embed-core-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-el:9.0.50">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/9.0.50/tomcat-embed-el-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.50">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.50/tomcat-embed-websocket-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlbeans:xmlbeans:3.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.9.7">
+    <archive path="C:/Users/Administrator/.m2/repository/org/aspectj/aspectjweaver/1.9.7/aspectjweaver-1.9.7.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-compat-qual:2.0.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14">
+    <archive path="C:/Users/Administrator/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
+  </library>
+  <library name="Maven: org.dom4j:dom4j:2.1.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar" />
+  </library>
+  <library name="Maven: org.easymock:easymock:3.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/easymock/easymock/3.1/easymock-3.1.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-runtime:2.3.4">
+    <archive path="C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.4/jaxb-runtime-2.3.4.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:txw2:2.3.4">
+    <archive path="C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/txw2/2.3.4/txw2-2.3.4.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest:2.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:2.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:5.1.2.Final">
+    <archive path="C:/Users/Administrator/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-core:5.4.32.Final">
+    <archive path="C:/Users/Administrator/.m2/repository/org/hibernate/hibernate-core/5.4.32.Final/hibernate-core-5.4.32.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate.validator:hibernate-validator:6.2.0.Final">
+    <archive path="C:/Users/Administrator/.m2/repository/org/hibernate/validator/hibernate-validator/6.2.0.Final/hibernate-validator-6.2.0.Final.jar" />
+  </library>
+  <library name="Maven: org.javassist:javassist:3.27.0-GA">
+    <archive path="C:/Users/Administrator/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar" />
+  </library>
+  <library name="Maven: org.jboss:jandex:2.2.3.Final">
+    <archive path="C:/Users/Administrator/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.4.2.Final">
+    <archive path="C:/Users/Administrator/.m2/repository/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar" />
+  </library>
+  <library name="Maven: org.jsoup:jsoup:1.11.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar" />
+  </library>
+  <library name="Maven: org.objenesis:objenesis:1.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/objenesis/objenesis/1.2/objenesis-1.2.jar" />
+  </library>
+  <library name="Maven: org.rauschig:jarchivelib:1.0.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-opera-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59">
+    <archive path="C:/Users/Administrator/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jul-to-slf4j:1.7.32">
+    <archive path="C:/Users/Administrator/.m2/repository/org/slf4j/jul-to-slf4j/1.7.32/jul-to-slf4j-1.7.32.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.32">
+    <archive path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-simple:1.7.32">
+    <archive path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-simple/1.7.32/slf4j-simple-1.7.32.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot/2.5.3/spring-boot-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.3/spring-boot-autoconfigure-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-devtools:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-devtools/2.5.3/spring-boot-devtools-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter/2.5.3/spring-boot-starter-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-aop:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.5.3/spring-boot-starter-aop-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.5.3/spring-boot-starter-data-jpa-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.5.3/spring-boot-starter-jdbc-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-json:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.5.3/spring-boot-starter-json-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.5.3/spring-boot-starter-logging-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-mail:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-mail/2.5.3/spring-boot-starter-mail-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.5.3/spring-boot-starter-tomcat-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-validation:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-validation/2.5.3/spring-boot-starter-validation-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-web:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.5.3/spring-boot-starter-web-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-commons:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-commons/2.5.3/spring-data-commons-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-jpa:2.5.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-jpa/2.5.3/spring-data-jpa-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-aop/5.3.9/spring-aop-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aspects:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-aspects/5.3.9/spring-aspects-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-beans/5.3.9/spring-beans-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-context/5.3.9/spring-context-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context-support:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-context-support/5.3.9/spring-context-support-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-core/5.3.9/spring-core-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-expression/5.3.9/spring-expression-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jcl:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-jcl/5.3.9/spring-jcl-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-jdbc/5.3.9/spring-jdbc-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-orm:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-orm/5.3.9/spring-orm-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-tx/5.3.9/spring-tx-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-webmvc/5.3.9/spring-webmvc-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-websocket:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-websocket/5.3.9/spring-websocket-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:5.3.9">
+    <archive path="C:/Users/Administrator/.m2/repository/org/springframework/spring-web/5.3.9/spring-web-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.vaadin.artur:a-vaadin-helper:1.5.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/vaadin/artur/a-vaadin-helper/1.5.0/a-vaadin-helper-1.5.0.jar" />
+  </library>
+  <library name="Maven: org.vaadin.artur.exampledata:exampledata:3.0.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/vaadin/artur/exampledata/exampledata/3.0.0/exampledata-3.0.0.jar" />
+  </library>
+  <library name="Maven: org.vaadin.artur:spring-data-provider:2.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/vaadin/artur/spring-data-provider/2.1.0/spring-data-provider-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.vaadin.haijian:exporter:3.0.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/vaadin/haijian/exporter/3.0.1/exporter-3.0.1.jar" />
+  </library>
+  <library name="Maven: org.vaadin.olli:file-download-wrapper:3.0.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/vaadin/olli/file-download-wrapper/3.0.1/file-download-wrapper-3.0.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.ingressorapidowebcomponents:pdf-browser-viewer:1.0.6">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/ingressorapidowebcomponents/pdf-browser-viewer/1.0.6/pdf-browser-viewer-1.0.6.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:font-roboto:1.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/font-roboto/1.1.0/font-roboto-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-a11y-keys-behavior:2.1.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-a11y-keys-behavior/2.1.1/iron-a11y-keys-behavior-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-autogrow-textarea:2.2.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-autogrow-textarea/2.2.0/iron-autogrow-textarea-2.2.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-behaviors:1.0.18">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-behaviors/1.0.18/iron-behaviors-1.0.18.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-checked-element-behavior:1.0.6">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-checked-element-behavior/1.0.6/iron-checked-element-behavior-1.0.6.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-flex-layout:2.0.3">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-flex-layout/2.0.3/iron-flex-layout-2.0.3.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-form-element-behavior:1.0.7">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-form-element-behavior/1.0.7/iron-form-element-behavior-1.0.7.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-iconset-svg:2.2.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-iconset-svg/2.2.1/iron-iconset-svg-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-icons:2.1.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-icons/2.1.1/iron-icons-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-icon:2.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-icon/2.1.0/iron-icon-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-image:1.2.6">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-image/1.2.6/iron-image-1.2.6.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-meta:2.1.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-meta/2.1.1/iron-meta-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:iron-validatable-behavior:1.1.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/iron-validatable-behavior/1.1.2/iron-validatable-behavior-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-behaviors:1.0.13">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-behaviors/1.0.13/paper-behaviors-1.0.13.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-button:1.0.15">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-button/1.0.15/paper-button-1.0.15.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-card:1.1.6">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-card/1.1.6/paper-card-1.1.6.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-icon-button:2.2.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-icon-button/2.2.0/paper-icon-button-2.2.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-material:1.0.7">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-material/1.0.7/paper-material-1.0.7.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-ripple:1.0.10">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-ripple/1.0.10/paper-ripple-1.0.10.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymerelements:paper-styles:1.3.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymerelements/paper-styles/1.3.1/paper-styles-1.3.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.polymer:polymer:2.7.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/polymer/polymer/2.7.0/polymer-2.7.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.vaadin:vaadin-development-mode-detector:2.0.4">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/vaadin/vaadin-development-mode-detector/2.0.4/vaadin-development-mode-detector-2.0.4.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.vaadin:vaadin-element-mixin:2.4.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/vaadin/vaadin-element-mixin/2.4.2/vaadin-element-mixin-2.4.2.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.vaadin:vaadin-usage-statistics:2.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/vaadin/vaadin-usage-statistics/2.1.0/vaadin-usage-statistics-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.webcomponents:shadycss:1.8.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/webcomponents/shadycss/1.8.0/shadycss-1.8.0.jar" />
+  </library>
+  <library name="Maven: org.webjars.bowergithub.webcomponents:webcomponentsjs:1.2.6">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/bowergithub/webcomponents/webcomponentsjs/1.2.6/webcomponentsjs-1.2.6.jar" />
+  </library>
+  <library name="Maven: org.webjars.npm:mobile-drag-drop:2.3.0-rc.1">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/npm/mobile-drag-drop/2.3.0-rc.1/mobile-drag-drop-2.3.0-rc.1.jar" />
+  </library>
+  <library name="Maven: org.webjars.npm:vaadin__vaadin-mobile-drag-drop:1.0.0">
+    <archive path="C:/Users/Administrator/.m2/repository/org/webjars/npm/vaadin__vaadin-mobile-drag-drop/1.0.0/vaadin__vaadin-mobile-drag-drop-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.28">
+    <archive path="C:/Users/Administrator/.m2/repository/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar" />
+  </library>
+  <library name="Maven: antlr:antlr:2.7.7">
+    <archive path="C:/Users/Administrator/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+  </library>
+  <library name="Maven: cglib:cglib-nodep:2.2.2">
+    <archive path="C:/Users/Administrator/.m2/repository/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.2.4">
+    <archive path="C:/Users/Administrator/.m2/repository/ch/qos/logback/logback-classic/1.2.4/logback-classic-1.2.4.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.2.4">
+    <archive path="C:/Users/Administrator/.m2/repository/ch/qos/logback/logback-core/1.2.4/logback-core-1.2.4.jar" />
+  </library>
+</eclipse-userlibraries>
+

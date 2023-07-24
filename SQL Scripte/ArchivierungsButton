@@ -1,0 +1,13 @@
+SET SQL_SAFE_UPDATES=0;
+
+Update data_record set archiviert="archivert" where archiviert="inaktiv";
+Update data_record set archiviert="aktiv" where archiviert<>"archiviert";
+Select * from data_record;
+
+SET SQL_SAFE_UPDATES=1;
+
+
+SET SQL_SAFE_UPDATES=0;
+
+UPDATE data_record SET archiviert = "aktiv" WHERE archiviert IS NULL or archiviert="";
+update data_record set archiviert="archiviert" where archiviert <>"aktiv";

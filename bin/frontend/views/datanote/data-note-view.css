@@ -1,0 +1,65 @@
+.data-note-view {
+  display: block;
+  padding: 1em;
+}
+.labelhl{
+    padding-top:20px;
+}
+.vlbhahl{
+    padding-top:0px;
+}
+.vlahbvl{
+    padding-top:70px;
+}
+.anchorbt{
+    background-color: #005ce6;
+      border: none;
+      color: white;
+      padding:7px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      border-radius: 4px;
+}
+
+body{
+    color:black;
+}
+vaadin-combo-box{
+    color:black;
+}
+vaadin-text-field{
+    color:black;
+}
+vaadin-number-field{
+    color:black;
+}
+vaadin-password-field{
+    color:black;
+}
+vaadin-label{
+    color:black;
+}
+vaadin-email-field{
+    color:black;
+}
+vaadin-radio-group{
+    color:black;
+}
+vaadin-radio-button{
+    color:black;
+}
+text{
+    color:black;
+}
+vaadin-text{
+    color:black;
+}
+label{
+    color:black;
+}
+vaadin-form-layout{
+    color:black;
+}
